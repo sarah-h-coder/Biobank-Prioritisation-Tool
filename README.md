@@ -88,10 +88,10 @@ Method for the Assesment of Priorities for International Species Conservation (M
 </a>
 
 ## Credits
-This tool was built soley by [Sarah Harwood](https://www.linkedin.com/in/sarah-j-harwood) [@sjharw](https://github.com/sjharw)
+This tool was built soley by [Sarah H](www.linkedin.com/in/sarah-h-work) [@sarah-h-coder](https://github.com/sarah-h-coder)
 
 ## License
-This app is published under a General Public License (GPL) v2.0. Please reference the original author of this tool [@sjharw](https://github.com/sjharw) in any derivative/ modified/ copied versions of this work.
+This app is published under a General Public License (GPL) v2.0. Please reference the original author of this tool [@sarah-h-coder](https://github.com/sarah-h-coder) in any derivative/ modified/ copied versions of this work.
 
 The goal of the GPL v2.0 is to promote the free sharing and collaboration of software. It ensures that everyone has the freedom to use, modify, and share software while respecting the rights of others. 
 
